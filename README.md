@@ -1,5 +1,9 @@
 # 📅 FullCalendar Scheduler Back-end
 
+Project inspired by Google Calendar
+
+Open source, if you want to improve or implement some functionality, feel free!
+
 ## Stacks: 
 
 - Typescript
